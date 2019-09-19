@@ -1,0 +1,72 @@
+#chart {
+  height: 350px;
+  width: 350px;
+}
+.card-h{
+	max-height:350px;
+	height:350px;
+}
+
+@media screen and (max-width:1680px){}
+
+@media screen and (max-width:1480px){}
+
+@media screen and (max-width:1280px){}
+
+@media screen and (max-width:980px){}
+
+@media screen and (max-width:840px){}
+
+@media screen and (max-width: 736px){}
+
+@media screen and (max-width: 650px){
+	.painel{
+		display:flex;
+		content-justify:center;
+	}
+}
+
+@media screen and (max-width: 460px){
+	.painel{
+		display:flex;
+		content-justify:center;
+	}
+#chart {
+  height: 200px;
+  width: 200px;
+}	
+}
+
+@media screen and (max-width: 420px){
+	.painel{
+		display:flex;
+		content-justify:center;
+	}
+#chart {
+  height: 200px;
+  width: 200px;
+}	
+}
+
+@media screen and (max-width: 360px){
+.painel{
+		display:flex;
+		content-justify:center;
+	}
+#chart {
+  height: 200px;
+  width: 200px;
+}
+}
+
+@media screen and (max-width: 330px){
+.painel{
+		display:flex;
+		content-justify:center;
+	}
+#chart {
+  height: 200px;
+  width: 200px;
+}	
+
+}
